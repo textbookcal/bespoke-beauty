@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for Bespoke Beauty	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Bespoke Beauty</description>
+	<lastBuildDate>Mon, 08 Jan 2024 16:51:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		Comment on Showcase Your Content With a Featured Image Cover by Brian Gardner		</title>
+		<link>/showcase/#comment-4</link>
+
+		<dc:creator><![CDATA[Brian Gardner]]></dc:creator>
+		<pubDate>Mon, 08 Jan 2024 08:30:21 +0000</pubDate>
+		<guid isPermaLink="false">http://epicenter.local/?p=30#comment-4</guid>
+
+					<description><![CDATA[This is an example of a comment made on a post. You can either edit the comment, delete the comment, or reply to the comment. Use this to share your thoughts about what was written.]]></description>
+			<content:encoded><![CDATA[<p>This is an example of a comment made on a post. You can either edit the comment, delete the comment, or reply to the comment. Use this to share your thoughts about what was written.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Showcase Your Content With a Featured Image Cover by Brian Gardner		</title>
+		<link>/showcase/#comment-3</link>
+
+		<dc:creator><![CDATA[Brian Gardner]]></dc:creator>
+		<pubDate>Mon, 08 Jan 2024 08:30:17 +0000</pubDate>
+		<guid isPermaLink="false">http://epicenter.local/?p=30#comment-3</guid>
+
+					<description><![CDATA[This is an example of a comment made on a post. You can either edit the comment, delete the comment, or reply to the comment. Use this to share your thoughts about what was written.]]></description>
+			<content:encoded><![CDATA[<p>This is an example of a comment made on a post. You can either edit the comment, delete the comment, or reply to the comment. Use this to share your thoughts about what was written.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Showcase Your Content With a Featured Image Cover by Brian Gardner		</title>
+		<link>/showcase/#comment-2</link>
+
+		<dc:creator><![CDATA[Brian Gardner]]></dc:creator>
+		<pubDate>Mon, 08 Jan 2024 08:30:12 +0000</pubDate>
+		<guid isPermaLink="false">http://epicenter.local/?p=30#comment-2</guid>
+
+					<description><![CDATA[This is an example of a comment made on a post. You can either edit the comment, delete the comment, or reply to the comment. Use this to share your thoughts about what was written.]]></description>
+			<content:encoded><![CDATA[<p>This is an example of a comment made on a post. You can either edit the comment, delete the comment, or reply to the comment. Use this to share your thoughts about what was written.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
