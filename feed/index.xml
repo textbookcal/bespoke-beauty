@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Bespoke Beauty</description>
-	<lastBuildDate>Mon, 08 Jan 2024 16:51:47 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 12 Aug 2024 20:03:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title></title>
+		<link>/842-2/</link>
+					<comments>/842-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Sample Admin]]></dc:creator>
+		<pubDate>Mon, 12 Aug 2024 20:03:10 +0000</pubDate>
+				<category><![CDATA[Design Blog]]></category>
+		<guid isPermaLink="false">/?p=842</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img width="576" height="1024" fetchpriority="high" decoding="async" data-id="843" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1NzYiIGhlaWdodD0iMTAyNCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iZmlsbCIgdmFsdWVzPSJyZ2JhKDE1MywxNTMsMTUzLDAuNSk7cmdiYSgxNTMsMTUzLDE1MywwLjEpO3JnYmEoMTUzLDE1MywxNTMsMC41KSIgZHVyPSIycyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+PC9yZWN0Pjwvc3ZnPg==" alt="" class="wp-post-842 wp-image-843" data-public-id="IMG-20240812-WA0019/IMG-20240812-WA0019.jpg" data-format="jpg" data-transformations="f_auto,q_auto" data-version="1723492970" data-seo="1" data-responsive="1" data-size="576 1024" data-delivery="upload" onload=";window.CLDBind?CLDBind(this):null;" data-cloudinary="lazy" /></figure>
+</figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/842-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Showcase Your Content With a Featured Image Cover</title>
 		<link>/showcase/</link>
 					<comments>/showcase/#comments</comments>
